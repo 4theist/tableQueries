@@ -1,0 +1,28 @@
+.Button {
+    min-width: 100px;
+    cursor: pointer;
+    padding: 5px 8px;
+    background-color: rgb(248, 250, 255);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.Button.queryBtn {
+    color: darkcyan;
+    margin-right: 20px;
+}
+
+.Button.confirmBtn {
+    color: rgb(187, 81, 95);
+}
+
+.cancelBtn {
+    color: #313829;
+}
+.clearBtn {
+    color: rgb(173, 88, 7);
+    margin-right: 20px;
+}
+.removeBtn {
+    color: rgb(192, 70, 86);
+    width: 50px;
+}
