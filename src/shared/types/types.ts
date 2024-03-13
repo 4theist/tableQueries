@@ -1,9 +1,0 @@
-export interface Pokemon {
-    id: number;
-    name: string;
-    height: number;
-    weight: number;
-    location_area_encounters: string;
-  }
- 
-  
